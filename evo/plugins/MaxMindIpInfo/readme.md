@@ -52,6 +52,116 @@ echo '</pre>';
 ?>
 ```
 
+Т.к. я нахожусь в Уфе, Россия, данный скрипт выведет такое:
+```html
+Array
+(
+    [city] => Array
+        (
+            [geoname_id] => 479561
+            [names] => Array
+                (
+                    [de] => Ufa
+                    [en] => Ufa
+                    [es] => Ufá
+                    [fr] => Oufa
+                    [ja] => ウファ
+                    [pt-BR] => Ufa
+                    [ru] => Уфа
+                )
+
+        )
+
+    [continent] => Array
+        (
+            [code] => EU
+            [geoname_id] => 6255148
+            [names] => Array
+                (
+                    [de] => Europa
+                    [en] => Europe
+                    [es] => Europa
+                    [fr] => Europe
+                    [ja] => ヨーロッパ
+                    [pt-BR] => Europa
+                    [ru] => Европа
+                    [zh-CN] => 欧洲
+                )
+
+        )
+
+    [country] => Array
+        (
+            [geoname_id] => 2017370
+            [iso_code] => RU
+            [names] => Array
+                (
+                    [de] => Russland
+                    [en] => Russia
+                    [es] => Rusia
+                    [fr] => Russie
+                    [ja] => ロシア
+                    [pt-BR] => Rússia
+                    [ru] => Россия
+                    [zh-CN] => 俄罗斯
+                )
+
+        )
+
+    [location] => Array
+        (
+            [accuracy_radius] => 5
+            [latitude] => 54.8
+            [longitude] => 55.9
+            [time_zone] => Asia/Yekaterinburg
+        )
+
+    [postal] => Array
+        (
+            [code] => 450511
+        )
+
+    [registered_country] => Array
+        (
+            [geoname_id] => 2017370
+            [iso_code] => RU
+            [names] => Array
+                (
+                    [de] => Russland
+                    [en] => Russia
+                    [es] => Rusia
+                    [fr] => Russie
+                    [ja] => ロシア
+                    [pt-BR] => Rússia
+                    [ru] => Россия
+                    [zh-CN] => 俄罗斯
+                )
+
+        )
+
+    [subdivisions] => Array
+        (
+            [0] => Array
+                (
+                    [geoname_id] => 578853
+                    [iso_code] => BA
+                    [names] => Array
+                        (
+                            [de] => Baschkortostan
+                            [en] => Bashkortostan Republic
+                            [fr] => République de Bachkirie
+                            [ru] => Башкортостан
+                        )
+
+                )
+
+        )
+
+    [autonomous_system_number] => 24955
+    [autonomous_system_organization] => OJSC Ufanet
+)
+```
+
 далее просто вызовете на странице [!test!]
 
 ### ПРИМЕЧАНИЕ
