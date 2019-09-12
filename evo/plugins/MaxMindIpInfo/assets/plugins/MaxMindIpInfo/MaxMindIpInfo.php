@@ -96,5 +96,3 @@ if(empty($_SESSION['MaxMindIpInfo'])){
 		$_SESSION['MaxMindIpInfo'] = json_decode(base64_decode($_COOKIE['MaxMindIpInfo']));
 	}
 }
-
-file_put_contents(__DIR__ . '/test.txt', json_encode($_SESSION['MaxMindIpInfo']));
