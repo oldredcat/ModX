@@ -14,7 +14,7 @@
 This product includes GeoLite2 data created by MaxMind, available from <a href="https://www.maxmind.com">https://www.maxmind.com</a>.<br>
 Это на ваше усмотрение.
 
-# ВНИМАНИЕ!!!!! ПЛАГИН НЕ РАБОТАЕТ НА ЛОКАЛЬНЫХ IP АДРЕСАХ!!!!
+# ВНИМАНИЕ!!!!! ПЛАГИН НЕ РАБОТАЕТ НЕ ЛОКАЛЬНЫХ IP АДРЕСАХ!!!!
 
 Т.к. локальные адреса не индексируются.
 
