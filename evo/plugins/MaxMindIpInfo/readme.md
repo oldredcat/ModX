@@ -14,7 +14,7 @@
 This product includes GeoLite2 data created by MaxMind, available from <a href="https://www.maxmind.com">https://www.maxmind.com</a>.<br>
 Это на ваше усмотрение.
 
-# ВНИМАНИЕ!!!!! ПЛАГИН НЕ РАБОТАЕТ НЕ ЛОКАЛЬНЫХ IP АДРЕСАХ!!!!
+# ВНИМАНИЕ!!!!! ПЛАГИН НЕ РАБОТАЕТ НА ЛОКАЛЬНЫХ IP АДРЕСАХ!!!!
 
 Т.к. локальные адреса не индексируются.
 
@@ -28,8 +28,8 @@ This product includes GeoLite2 data created by MaxMind, available from <a href="
 
 ## Установка
 
-1. Вы можете установить данный плагин посредством стандартного уставщика ModX Evolution
-2. Вы можете загрузить пакет установки, просто скачайте install_me_MaxMindIpInfo.zip и через установщик установите
+1. Вы можете установить данный плагин посредством стандартного уставщика ModX Evolution (пока не работает)
+2. Вы можете загрузить пакет установки, просто скачайте MaxMindIpInfo.zip и через установщик установите
 
 ## Настройка
 
